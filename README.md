@@ -1,2 +1,2 @@
-# uPuC-Prac8
-AVR-GCC. Timer0
+# uPuC-Prac9
+AVR-GCC. Timer2
